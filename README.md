@@ -1,5 +1,6 @@
-<p align="center">
-  <h2 align="center">Vague Theme</h2>
-</p>
+<div align="center">
+  <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
+  <h1>Vague Theme</h1>
 
-<p align="center">A cool, dark, low contrast colorscheme. Pastel yet vivid, like a fleeting memory...</p>
+  <p>A cool, dark, low contrast colorscheme. Pastel yet vivid, like a fleeting memory...</p>
+</div>
