@@ -19,6 +19,7 @@ Vague theme is available for a variety of applications:
 <summary>Editors</summary>
 
 - [Neovim](https://github.com/vague-theme/vague.nvim)
+- [Zed](https://github.com/vague-theme/vague-zed)
 
 </details>
 
