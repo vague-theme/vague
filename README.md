@@ -33,7 +33,7 @@ Vague theme is available for a variety of applications:
 - [Rio](https://github.com/vague-theme/vague-rio)
 - [st](https://github.com/vague-theme/vague-xresources)
 - [Warp](https://github.com/vague-theme/vague-warp)
-- [WezTerm](https://github.com/vague-theme/vague-foot)
+- [WezTerm](https://github.com/vague-theme/vague-wezterm)
 - [Windows Terminal](https://github.com/vague-theme/vague-windows-terminal)
 
 </details>
