@@ -47,3 +47,10 @@ Vague theme is available for a variety of applications:
 - [Zellij](https://github.com/vague-theme/vague-zellij)
 
 </details>
+
+<details open>
+<summary>Desktop Environments</summary>
+
+- [KDE](https://github.com/vague-theme/vague-kde)
+
+</details>
