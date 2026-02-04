@@ -45,6 +45,7 @@ Vague theme is available for a variety of applications:
 - [lazygit](https://github.com/vague-theme/vague-lazygit)
 - [tmux](https://github.com/vague-theme/vague-tmux)
 - [Zellij](https://github.com/vague-theme/vague-zellij)
+- [Yazi](https://github.com/vague-theme/vague-yazi)
 
 </details>
 
