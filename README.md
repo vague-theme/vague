@@ -55,3 +55,10 @@ Vague theme is available for a variety of applications:
 - [KDE](https://github.com/vague-theme/vague-kde)
 
 </details>
+
+<details open>
+<summary>Web Browsers</summary>
+
+- [Chromium](https://github.com/vague-theme/vague-chromium)
+
+</details>
