@@ -23,6 +23,12 @@
     "iris": "#7e98e8",
     "green": "#7fa563"
   },
+  "diff": {
+    "add": "#293125",
+    "change": "#41362a",
+    "delete": "#3b242a",
+    "text": "#6D583E"
+  },
   "ansi": {
     "normal": {
       "black": "#252530",
