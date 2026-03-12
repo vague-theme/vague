@@ -1,12 +1,12 @@
 {
   "palette": {
-    "background": "#141415",
-    "surface": "#1c1c24",
-    "overlay": "#252530",
-    "highlight": "#333738",
+    "black": "#141415",
+    "shadow": "#1c1c24",
+    "graphite": "#252530",
+    "onyx": "#333738",
     "muted": "#606079",
     "gray": "#878787",
-    "text": "#cdcdcd",
+    "white": "#cdcdcd",
     "yellow": "#f3be7c",
     "amber": "#e8b589",
     "gold": "#e0a363",

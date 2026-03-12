@@ -23,22 +23,22 @@ The complete color palette can be found in [palette.json](palette.json) file.
   </tr>
   <tr>
     <td><img src="assets/circles/141415.svg" width="23"/></td>
-    <td>Background</td>
+    <td>Black</td>
     <td><code>#141415</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/1c1c24.svg" width="23"/></td>
-    <td>Surface</td>
+    <td>Shadow</td>
     <td><code>#1c1c24</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/252530.svg" width="23"/></td>
-    <td>Overlay</td>
+    <td>Graphite</td>
     <td><code>#252530</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/333738.svg" width="23"/></td>
-    <td>Highlight</td>
+    <td>Onyx</td>
     <td><code>#333738</code></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ The complete color palette can be found in [palette.json](palette.json) file.
   </tr>
   <tr>
     <td><img src="assets/circles/cdcdcd.svg" width="23"/></td>
-    <td>Text</td>
+    <td>White</td>
     <td><code>#cdcdcd</code></td>
   </tr>
   <tr>
