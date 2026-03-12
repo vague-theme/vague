@@ -49,4 +49,4 @@ for color_name, hex in palette["palette"].items():
     table_item = gen_table_item(str(circle_path), pretty_color_name, hex)
     print(table_item, end="")
 
-# TODO: handle palette["asci"].
+# TODO(skewb1k): handle palette["asci"].

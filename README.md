@@ -25,108 +25,108 @@ for guidelines.
     <td><code>#141415</code></td>
   </tr>
   <tr>
-    <td><img src="assets/circles/cdcdcd.svg" width="23"/></td>
-    <td>Text</td>
-    <td><code>#cdcdcd</code></td>
-  </tr>
-  <tr>
     <td><img src="assets/circles/1c1c24.svg" width="23"/></td>
     <td>Surface</td>
     <td><code>#1c1c24</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/252530.svg" width="23"/></td>
-    <td>Line</td>
+    <td>Overlay</td>
     <td><code>#252530</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/333738.svg" width="23"/></td>
-    <td>Visual</td>
+    <td>Highlight</td>
     <td><code>#333738</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/606079.svg" width="23"/></td>
-    <td>Comment</td>
+    <td>Muted</td>
     <td><code>#606079</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/878787.svg" width="23"/></td>
-    <td>Border</td>
+    <td>Gray</td>
     <td><code>#878787</code></td>
   </tr>
   <tr>
+    <td><img src="assets/circles/cdcdcd.svg" width="23"/></td>
+    <td>Text</td>
+    <td><code>#cdcdcd</code></td>
+  </tr>
+  <tr>
     <td><img src="assets/circles/f3be7c.svg" width="23"/></td>
-    <td>Warning</td>
+    <td>Yellow</td>
     <td><code>#f3be7c</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/e8b589.svg" width="23"/></td>
-    <td>String</td>
+    <td>Amber</td>
     <td><code>#e8b589</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/e0a363.svg" width="23"/></td>
-    <td>Number</td>
+    <td>Gold</td>
     <td><code>#e0a363</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/c48282.svg" width="23"/></td>
-    <td>Func</td>
+    <td>Peach</td>
     <td><code>#c48282</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/d8647e.svg" width="23"/></td>
-    <td>Error</td>
+    <td>Red</td>
     <td><code>#d8647e</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/405065.svg" width="23"/></td>
-    <td>Search</td>
+    <td>Storm</td>
     <td><code>#405065</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/c3c3d5.svg" width="23"/></td>
-    <td>Property</td>
+    <td>Lilac</td>
     <td><code>#c3c3d5</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/aeaed1.svg" width="23"/></td>
-    <td>Constant</td>
+    <td>Cyan</td>
     <td><code>#aeaed1</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/bb9dbd.svg" width="23"/></td>
-    <td>Parameter</td>
+    <td>Magenta</td>
     <td><code>#bb9dbd</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/b4d4cf.svg" width="23"/></td>
-    <td>Builtin</td>
+    <td>Aqua</td>
     <td><code>#b4d4cf</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/90a0b5.svg" width="23"/></td>
-    <td>Operator</td>
+    <td>Lavender</td>
     <td><code>#90a0b5</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/9bb4bc.svg" width="23"/></td>
-    <td>Type</td>
+    <td>Teal</td>
     <td><code>#9bb4bc</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/6e94b2.svg" width="23"/></td>
-    <td>Keyword</td>
+    <td>Blue</td>
     <td><code>#6e94b2</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/7e98e8.svg" width="23"/></td>
-    <td>Hint</td>
+    <td>Iris</td>
     <td><code>#7e98e8</code></td>
   </tr>
   <tr>
     <td><img src="assets/circles/7fa563.svg" width="23"/></td>
-    <td>Plus</td>
+    <td>Green</td>
     <td><code>#7fa563</code></td>
   </tr>
 </table>
