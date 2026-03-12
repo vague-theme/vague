@@ -11,6 +11,129 @@ If you'd like to contribute a new port, please see the
 [CONTRIBUTING.md](https://github.com/vague-theme/.github/blob/main/CONTRIBUTING.md)
 for guidelines.
 
+The complete color palette can be found in [palette.json](palette.json) file.
+
+<details>
+<summary>Palette</summary>
+<table>
+  <tr>
+    <th></th>
+    <th>Name</th>
+    <th>Hex</th>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/141415.svg" width="23"/></td>
+    <td>Black</td>
+    <td><code>#141415</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/1c1c24.svg" width="23"/></td>
+    <td>Shadow</td>
+    <td><code>#1c1c24</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/252530.svg" width="23"/></td>
+    <td>Graphite</td>
+    <td><code>#252530</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/333738.svg" width="23"/></td>
+    <td>Onyx</td>
+    <td><code>#333738</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/606079.svg" width="23"/></td>
+    <td>Muted</td>
+    <td><code>#606079</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/878787.svg" width="23"/></td>
+    <td>Gray</td>
+    <td><code>#878787</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/cdcdcd.svg" width="23"/></td>
+    <td>White</td>
+    <td><code>#cdcdcd</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/f3be7c.svg" width="23"/></td>
+    <td>Yellow</td>
+    <td><code>#f3be7c</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/e8b589.svg" width="23"/></td>
+    <td>Amber</td>
+    <td><code>#e8b589</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/e0a363.svg" width="23"/></td>
+    <td>Gold</td>
+    <td><code>#e0a363</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/c48282.svg" width="23"/></td>
+    <td>Peach</td>
+    <td><code>#c48282</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/d8647e.svg" width="23"/></td>
+    <td>Red</td>
+    <td><code>#d8647e</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/405065.svg" width="23"/></td>
+    <td>Storm</td>
+    <td><code>#405065</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/c3c3d5.svg" width="23"/></td>
+    <td>Lilac</td>
+    <td><code>#c3c3d5</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/aeaed1.svg" width="23"/></td>
+    <td>Cyan</td>
+    <td><code>#aeaed1</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/bb9dbd.svg" width="23"/></td>
+    <td>Magenta</td>
+    <td><code>#bb9dbd</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/b4d4cf.svg" width="23"/></td>
+    <td>Aqua</td>
+    <td><code>#b4d4cf</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/90a0b5.svg" width="23"/></td>
+    <td>Lavender</td>
+    <td><code>#90a0b5</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/9bb4bc.svg" width="23"/></td>
+    <td>Teal</td>
+    <td><code>#9bb4bc</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/6e94b2.svg" width="23"/></td>
+    <td>Blue</td>
+    <td><code>#6e94b2</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/7e98e8.svg" width="23"/></td>
+    <td>Iris</td>
+    <td><code>#7e98e8</code></td>
+  </tr>
+  <tr>
+    <td><img src="assets/circles/7fa563.svg" width="23"/></td>
+    <td>Green</td>
+    <td><code>#7fa563</code></td>
+  </tr>
+</table>
+</details>
+
 ### Ports
 
 Vague theme is available for a variety of applications:
