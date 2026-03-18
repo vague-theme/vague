@@ -18,6 +18,7 @@ Vague theme is available for a variety of applications:
 <details open>
 <summary>Editors</summary>
 
+- [Helix](https://github.com/vague-theme/vague-helix)
 - [Neovim](https://github.com/vague-theme/vague.nvim)
 - [Vim](https://github.com/vague-theme/vague.vim)
 - [Zed](https://github.com/vague-theme/vague-zed)
