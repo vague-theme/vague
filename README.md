@@ -43,6 +43,7 @@ Vague theme is available for a variety of applications:
 <details open>
 <summary>CLI Tools</summary>
 
+- [bat](https://github.com/vague-theme/vague-bat)
 - [fzf](https://github.com/vague-theme/vague-fzf)
 - [lazygit](https://github.com/vague-theme/vague-lazygit)
 - [tmux](https://github.com/vague-theme/vague-tmux)
@@ -54,6 +55,7 @@ Vague theme is available for a variety of applications:
 <details open>
 <summary>Desktop Environments</summary>
 
+- [GTK](https://github.com/vague-theme/vague-gtk)
 - [KDE](https://github.com/vague-theme/vague-kde)
 
 </details>
