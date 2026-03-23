@@ -64,5 +64,6 @@ Vague theme is available for a variety of applications:
 <summary>Web Browsers</summary>
 
 - [Chromium](https://github.com/vague-theme/vague-chromium)
+- [Firefox](https://github.com/vague-theme/vague-firefox)
 
 </details>
