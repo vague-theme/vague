@@ -172,6 +172,7 @@ Vague theme is available for a variety of applications:
 - [tmux](https://github.com/vague-theme/vague-tmux)
 - [Zellij](https://github.com/vague-theme/vague-zellij)
 - [Yazi](https://github.com/vague-theme/vague-yazi)
+- [OpenCode](https://github.com/vague-theme/vague-opencode)
 
 </details>
 
