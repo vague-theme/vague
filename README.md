@@ -168,10 +168,10 @@ Vague theme is available for a variety of applications:
 - [bat](https://github.com/vague-theme/vague-bat)
 - [fzf](https://github.com/vague-theme/vague-fzf)
 - [lazygit](https://github.com/vague-theme/vague-lazygit)
-- [tmux](https://github.com/vague-theme/vague-tmux)
-- [Zellij](https://github.com/vague-theme/vague-zellij)
-- [Yazi](https://github.com/vague-theme/vague-yazi)
 - [OpenCode](https://github.com/vague-theme/vague-opencode)
+- [tmux](https://github.com/vague-theme/vague-tmux)
+- [Yazi](https://github.com/vague-theme/vague-yazi)
+- [Zellij](https://github.com/vague-theme/vague-zellij)
 
 </details>
 
