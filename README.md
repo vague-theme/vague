@@ -11,6 +11,8 @@ If you'd like to contribute a new port, please see the
 [CONTRIBUTING.md](https://github.com/vague-theme/.github/blob/main/CONTRIBUTING.md)
 for guidelines.
 
+### Color Palette
+
 The complete color palette can be found in [palette.json](palette.json) file.
 
 <details>
