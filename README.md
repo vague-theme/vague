@@ -166,6 +166,7 @@ Vague theme is available for a variety of applications:
 <summary>CLI Tools</summary>
 
 - [bat](https://github.com/vague-theme/vague-bat)
+- [btop](https://github.com/vague-theme/vague-btop)
 - [fzf](https://github.com/vague-theme/vague-fzf)
 - [lazygit](https://github.com/vague-theme/vague-lazygit)
 - [OpenCode](https://github.com/vague-theme/vague-opencode)
