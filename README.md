@@ -159,6 +159,7 @@ Vague theme is available for a variety of applications:
 - [Warp](https://github.com/vague-theme/vague-warp)
 - [WezTerm](https://github.com/vague-theme/vague-wezterm)
 - [Windows Terminal](https://github.com/vague-theme/vague-windows-terminal)
+- [Xfce Terminal](https://github.com/vague-theme/vague-xfce4-terminal)
 
 </details>
 
