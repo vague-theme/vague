@@ -4,7 +4,7 @@ title: New theme for <app>
 body:
   - type: input
     attributes:
-      label: Link to theme repo
+      label: Link to the theme repository
     validations:
       required: true
   - type: textarea
