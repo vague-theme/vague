@@ -155,7 +155,6 @@ Vague theme is available for a variety of applications:
 - [Ghostty](https://github.com/vague-theme/vague-ghostty)
 - [kitty](https://github.com/vague-theme/vague-kitty)
 - [Rio](https://github.com/vague-theme/vague-rio)
-- [st](https://github.com/vague-theme/vague-xresources)
 - [Warp](https://github.com/vague-theme/vague-warp)
 - [WezTerm](https://github.com/vague-theme/vague-wezterm)
 - [Windows Terminal](https://github.com/vague-theme/vague-windows-terminal)
@@ -190,5 +189,12 @@ Vague theme is available for a variety of applications:
 
 - [Chromium](https://github.com/vague-theme/vague-chromium)
 - [Firefox](https://github.com/vague-theme/vague-firefox)
+
+</details>
+
+<details open>
+<summary>Miscellaneous</summary>
+
+- [Xresources](https://github.com/vague-theme/vague-xresources)
 
 </details>
