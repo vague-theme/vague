@@ -155,6 +155,7 @@ Vague theme is available for a variety of applications:
 - [Ghostty](https://github.com/vague-theme/vague-ghostty)
 - [kitty](https://github.com/vague-theme/vague-kitty)
 - [Rio](https://github.com/vague-theme/vague-rio)
+- [st](https://github.com/vague-theme/vague-st)
 - [Warp](https://github.com/vague-theme/vague-warp)
 - [WezTerm](https://github.com/vague-theme/vague-wezterm)
 - [Windows Terminal](https://github.com/vague-theme/vague-windows-terminal)
