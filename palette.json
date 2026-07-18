@@ -27,7 +27,7 @@
     "add": "#293125",
     "change": "#41362a",
     "delete": "#3b242a",
-    "text": "#6D583E"
+    "text": "#6d583e"
   },
   "ansi": {
     "normal": {
@@ -56,7 +56,7 @@
       "green": "#536c41",
       "yellow": "#a07d51",
       "blue": "#486175",
-      "magenta": "#7b677C",
+      "magenta": "#7b677c",
       "cyan": "#727289",
       "white": "#878787"
     }
