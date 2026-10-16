@@ -153,6 +153,7 @@ Vague theme is available for a variety of applications:
 - [Alacritty](https://github.com/vague-theme/vague-alacritty)
 - [foot](https://github.com/vague-theme/vague-foot)
 - [Ghostty](https://github.com/vague-theme/vague-ghostty)
+- [iTerm2](https://github.com/vague-theme/vague.itermcolors)
 - [kitty](https://github.com/vague-theme/vague-kitty)
 - [Rio](https://github.com/vague-theme/vague-rio)
 - [st](https://github.com/vague-theme/vague-st)
